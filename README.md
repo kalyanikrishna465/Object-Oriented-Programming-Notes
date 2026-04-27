@@ -4,7 +4,7 @@
 
 ## 🔗 Quick Links
 * 📥 **[Download Full Notes (PDF)](https://kalyani72.gumroad.com/l/oopnotes)**
-* 👀 **[View Sample Preview](YOUR_PREVIEW_LINK_OR_IMAGE)**
+* 👀 **[View Sample Preview](OOPs_preview.pdf)**
 
 ---
 
@@ -37,12 +37,10 @@ High-yield concepts that separate top candidates from the rest:
 
 ## ✨ Why Choose These Notes?
 
-* **Placement-Centric:** No fluff. Only what recruiters actually ask in 2024-2025.
+* **Placement-Centric:** No fluff. Only what recruiters actually ask.
 * **Interview Tips:** Every major section includes a "Pro-Tip" on how to phrase your answer.
 * **Code-First:** Concepts are backed by clean, commented Java snippets.
 
 ---
 
 
----
-© 2024 [Your Name/Handle]. All rights reserved.
